@@ -1,0 +1,1 @@
+This project is not finished yet. This project works with Atmega328p.
